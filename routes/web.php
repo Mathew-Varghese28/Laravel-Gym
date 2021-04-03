@@ -30,5 +30,5 @@ Route::get('/registration', function () {
 });
 
 Route::get('/Signin', function () {
-    return view('signin');
+    return view('Signin');
 });
